@@ -1,0 +1,9 @@
+{
+    "subreddit": "Astellia",
+    "keyfile": "keys.log",
+    "openkeyfile": 1,
+    "regex": [	
+		"[a-zA-Z0-9]{4}-[a-zA-Z0-9]{4}-[a-zA-Z0-9]{4}-[a-zA-Z0-9]{4}", 
+		"....-....-....-...."
+	]
+}
